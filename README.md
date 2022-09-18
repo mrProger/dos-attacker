@@ -8,4 +8,5 @@
 
 **Аргумент 4** - Включение/Выключение режима debug (true/false)
 
+
 **Пример: node dos.js https://vk.com 1 get true** 
